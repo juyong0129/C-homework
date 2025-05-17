@@ -1,26 +1,26 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int a, b, c, d, e;
 
-	printf("Á¤¼ö 5°³ ÀÔ·Â : ");
+	printf("ì •ìˆ˜ 5ê°œ ì…ë ¥ : ");
 	scanf("%d %d %d %d %d", &a, &b, &c, &d, &e);
 
 	if ((a > b) && (a > c) && (a > d) && (a > e)) {
-		printf("%d°¡ °¡Àå Å®´Ï´Ù.", a);
+		printf("%dê°€ ê°€ì¥ í½ë‹ˆë‹¤.", a);
 	}
 	else if ((b > a) && (b > c) && (b > d) && (b > e)) {
-		printf("%d°¡ °¡Àå Å®´Ï´Ù.", b);
+		printf("%dê°€ ê°€ì¥ í½ë‹ˆë‹¤.", b);
 	}
 	else if ((c > a) && (c > b) && (c > d) && (c > e)) {
-		printf("%d°¡ °¡Àå Å®´Ï´Ù.", c);
+		printf("%dê°€ ê°€ì¥ í½ë‹ˆë‹¤.", c);
 	}
 	else if ((d > a) && (d > b) && (d > c) && (d > e)) {
-		printf("%d°¡ °¡Àå Å®´Ï´Ù.", d);
+		printf("%dê°€ ê°€ì¥ í½ë‹ˆë‹¤.", d);
 	}
 	else if ((e > a) && (e > b) && (e > c) && (e > d)) {
-		printf("%d°¡ °¡Àå Å®´Ï´Ù.", e);
+		printf("%dê°€ ê°€ì¥ í½ë‹ˆë‹¤.", e);
 	}
 
 	return 0;

@@ -1,11 +1,11 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main()
 {
 	int w = 6;
 	float h = 245 / 100.0;
 
-	printf("ÀÌ Çö¼ö¸·ÀÇ ³ĞÀÌ´Â %.1fm^2 ÀÔ´Ï´Ù.", w * h);
+	printf("ì´ í˜„ìˆ˜ë§‰ì˜ ë„“ì´ëŠ” %.1fm^2 ì…ë‹ˆë‹¤.", w * h);
 
 	return 0;
 }

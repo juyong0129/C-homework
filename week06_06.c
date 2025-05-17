@@ -1,9 +1,9 @@
-#include <stdio.h>
+Ôªø#include <stdio.h>
 
 int main() {
 	int a = 3, b = 4, result;
 
-	result = a++ > 2 && ++b < 10 || b-- > 3; // 1π¯: ¬¸, 2π¯: ¬¸, 3π¯: ¬¸ µ˚∂Ûº≠ √‚∑¬∞·∞˙: 1
+	result = a++ > 2 && ++b < 10 || b-- > 3; // 1Î≤à: Ï∞∏, 2Î≤à: Ï∞∏, 3Î≤à: Ï∞∏ Îî∞ÎùºÏÑú Ï∂úÎ†•Í≤∞Í≥º: 1
 
 	printf("%d\n", result);
 

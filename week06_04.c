@@ -1,12 +1,12 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int a = 5;
 
-	printf("%d\n", a += a++); //Ãâ·Â °á°ú: 10, a = 11
-	printf("%d\n", a *= ++a); //Ãâ·Â°á°ú : 144, a = 144
-	printf("%d\n", a %= a--); //Ãâ·Â°á°ú : 0, a = -1
-	printf("%d\n", a); //Ãâ·Â°á°ú : -1, a = -1
+	printf("%d\n", a += a++); //ì¶œë ¥ ê²°ê³¼: 10, a = 11
+	printf("%d\n", a *= ++a); //ì¶œë ¥ê²°ê³¼ : 144, a = 144
+	printf("%d\n", a %= a--); //ì¶œë ¥ê²°ê³¼ : 0, a = -1
+	printf("%d\n", a); //ì¶œë ¥ê²°ê³¼ : -1, a = -1
 	
 	return 0;
 }

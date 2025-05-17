@@ -1,16 +1,16 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int n;
-	printf("а╓╪Ж╦╕ ют╥бгь аж╪╪©Д >>> ");
+	printf("Л═∙Л┬≤К╔╪ Л·┘К═╔М∙╢ Лё╪Л└╦Л ■ >>> ");
 	scanf("%d", &n);
 
 	if ((n % 2 == 0) && (n % 3 == 0)) {
-		printf("%d╢б 2©м 3юг ╟Ь╧Х╪Ж ют╢о╢ы.", n);
+		printf("%dК┼■ 2Л≥─ 3Л²≤ ЙЁ╣К╟╟Л┬≤ Л·┘К▀┬К▀╓.", n);
 	}
 	else {
-		printf("%d╢б 2©м 3юг ╟Ь╧Х╪Ж╟║ ╬ф╢у╢о╢ы.", n);
+		printf("%dК┼■ 2Л≥─ 3Л²≤ ЙЁ╣К╟╟Л┬≤Й╟─ Л∙└К▀≥К▀┬К▀╓.", n);
 	}
 
 	return 0;

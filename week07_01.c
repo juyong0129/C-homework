@@ -1,26 +1,26 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int a, b;
 
-	printf("Á¤¼ö 2°³ ÀÔ·Â : ");
+	printf("ì •ìˆ˜ 2ê°œ ìž…ë ¥ : ");
 	scanf("%d %d", &a, &b);
 
 	if (a > b) {
 		if (a % b == 0) {
-			printf("%d´Â %d·Î ³ª´©¾î ¶³¾îÁý´Ï´Ù.", a, b);
+			printf("%dëŠ” %dë¡œ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§‘ë‹ˆë‹¤.", a, b);
 		}
 		else {
-			printf("%d´Â %d·Î ³ª´©¾î ¶³¾îÁöÁö ¾Ê½À´Ï´Ù.", a, b);
+			printf("%dëŠ” %dë¡œ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§€ì§€ ì•ŠìŠµë‹ˆë‹¤.", a, b);
 		}
 	}
 	else {
 		if (b % a == 0) {
-			printf("%d´Â %d·Î ³ª´©¾î ¶³¾îÁý´Ï´Ù.", b, a);
+			printf("%dëŠ” %dë¡œ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§‘ë‹ˆë‹¤.", b, a);
 		}
 		else {
-			printf("%d´Â %d·Î ³ª´©¾î ¶³¾îÁöÁö ¾Ê½À´Ï´Ù.", b, a);
+			printf("%dëŠ” %dë¡œ ë‚˜ëˆ„ì–´ ë–¨ì–´ì§€ì§€ ì•ŠìŠµë‹ˆë‹¤.", b, a);
 		}
 	}
 

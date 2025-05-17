@@ -1,16 +1,16 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int x = 4, y = 5;
 
-	if ((x += y++) > 9 && --y > x++) { // °ÅÁþ
+	if ((x += y++) > 9 && --y > x++) { // ê±°ì§“
 		x *= 2;
 	}
 	else {
-		y -= 3; // ½ÇÇàµÊ µû¶ó¼­ x = 9, y = 2 
+		y -= 3; // ì‹¤í–‰ë¨ ë”°ë¼ì„œ x = 9, y = 2 
 	}
 
-	printf("%d %d\n", x, y); // Ãâ·Â°á°ú: 9 2 µû¶ó¼­ 4¹ø ÀÌ¿©¾ß ÇÏ´Âµ¥ 9 3 ÀÌ Ãâ·ÂµÊ...?
+	printf("%d %d\n", x, y); // ì¶œë ¥ê²°ê³¼: 9 2 ë”°ë¼ì„œ 4ë²ˆ ì´ì—¬ì•¼ í•˜ëŠ”ë° 9 3 ì´ ì¶œë ¥ë¨...?
 
 	return 0;
 }

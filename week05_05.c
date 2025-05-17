@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()
@@ -6,7 +6,7 @@ int main()
 	int korean, english;
 	int result;
 
-	printf("ÇÑ±¹¾î, ¿µ¾î ¼ø¼­·Î Å¸ÀÚ ¼Óµµ¸¦ ÀÔ·ÂÇØ ÁÖ¼¼¿ä >>> ");
+	printf("í•œêµ­ì–´, ì˜ì–´ ìˆœì„œë¡œ íƒ€ìž ì†ë„ë¥¼ ìž…ë ¥í•´ ì£¼ì„¸ìš” >>> ");
 	scanf("%d, %d", &korean, &english);
 
 	result = (korean >= 180) && (english >= 150);

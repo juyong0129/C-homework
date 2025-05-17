@@ -1,9 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int a, b, c;
-	printf("a, b, c ¼øÀ¸·Î Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("a, b, c ìˆœìœ¼ë¡œ ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d, %d, %d", &a, &b, &c);
 
 	int result = (a % b == 0) && (a % c != 0);
