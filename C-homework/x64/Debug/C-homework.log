@@ -1,2 +1,35 @@
-﻿  week06_06.c
-  C-homework.vcxproj -> C:\code\c\C-homework\x64\Debug\C-homework.exe
+﻿  week06_07.c
+  week06_08.c
+  week07_01.c
+  week07_02.c
+  week07_03.c
+  week07_04.c
+  week09_01.c
+  코드를 생성하고 있습니다...
+week04_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week04_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_06.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_07.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_08.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_09.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_10.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week05_11.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_06.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_07.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week06_08.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week07_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week07_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week07_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week07_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+week09_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
+C:\code\c\C-homework\x64\Debug\C-homework.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
