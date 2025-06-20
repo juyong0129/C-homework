@@ -1,35 +1,23 @@
-﻿  week06_07.c
-  week06_08.c
-  week07_01.c
-  week07_02.c
-  week07_03.c
-  week07_04.c
-  week09_01.c
+﻿  week10_01.c
+C:\code\c\C-homework\week10_01.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\code\c\C-homework\week10_01.c(18,9): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\code\c\C-homework\week10_01.c(20,2): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
+C:\code\c\C-homework\week10_01.c(18,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\code\c\C-homework\week10_01.c(18,9):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+      C:\code\c\C-homework\week10_01.c(18,9):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  
+  week10_04.c
+C:\code\c\C-homework\week10_04.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\code\c\C-homework\week10_04.c(14,12): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\code\c\C-homework\week10_04.c(16,5): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
+C:\code\c\C-homework\week10_04.c(14,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\code\c\C-homework\week10_04.c(14,12):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 0개가 제공되었습니다.
+      C:\code\c\C-homework\week10_04.c(14,12):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  
+  week14_03.c
+C:\code\c\C-homework\week14_03.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   코드를 생성하고 있습니다...
-week04_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week04_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_06.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_07.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_08.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_09.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_10.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_11.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_06.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_07.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_08.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week07_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week07_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week07_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week07_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week09_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-C:\code\c\C-homework\x64\Debug\C-homework.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

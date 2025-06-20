@@ -141,5 +141,14 @@
     <ClCompile Include="week12_03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="week14_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week14_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week14_03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
