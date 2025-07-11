@@ -1,5 +1,16 @@
 ﻿  week10_01.c
+  week10_04.c
+  week15_05.c
+  week15_06.c
+  week16_03.c
+  week16_04.c
+  week16_05.c
+  week16_06.c
+  week17_01.c
+  week17_02.c
+  week17_03.c
 C:\code\c\C-homework\week10_01.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  week17_04.c
 C:\code\c\C-homework\week10_01.c(18,9): error C2001: 상수에 줄 바꿈 문자가 있습니다.
 C:\code\c\C-homework\week10_01.c(20,2): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
 C:\code\c\C-homework\week10_01.c(18,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
@@ -8,7 +19,6 @@ C:\code\c\C-homework\week10_01.c(18,9): warning C4473: 'printf': 서식 문자�
       C:\code\c\C-homework\week10_01.c(18,9):
       누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
   
-  week10_04.c
 C:\code\c\C-homework\week10_04.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
 C:\code\c\C-homework\week10_04.c(14,12): error C2001: 상수에 줄 바꿈 문자가 있습니다.
 C:\code\c\C-homework\week10_04.c(16,5): error C2143: 구문 오류: ')'이(가) 'return' 앞에 없습니다.
@@ -18,20 +28,29 @@ C:\code\c\C-homework\week10_04.c(14,12): warning C4473: 'printf': 서식 문자�
       C:\code\c\C-homework\week10_04.c(14,12):
       누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
   
-  week14_03.c
-C:\code\c\C-homework\week14_03.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  week15_01.c
-  week15_02.c
-C:\code\c\C-homework\week15_02.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  week15_03.c
-  week15_04.c
-C:\code\c\C-homework\week15_04.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  week15_05.c
 C:\code\c\C-homework\week15_05.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\code\c\C-homework\week15_05.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\code\c\C-homework\week15_05.c(15,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  week15_06.c
-  week16_01.c
-  week16_02.c
-  week16_03.c
+C:\code\c\C-homework\week16_04.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\code\c\C-homework\week16_04.c(11,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\c\C-homework\week16_05.c(6,16): error C2057: 상수 식이 필요합니다.
+C:\code\c\C-homework\week16_05.c(6,16): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\code\c\C-homework\week16_05.c(6,19): error C2057: 상수 식이 필요합니다.
+C:\code\c\C-homework\week16_05.c(6,19): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\code\c\C-homework\week16_05.c(6,9): error C2087: 'output': 첨자가 없습니다.
+C:\code\c\C-homework\week16_05.c(6,9): error C2133: 'output': 알 수 없는 크기입니다.
+C:\code\c\C-homework\week16_05.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\code\c\C-homework\week16_06.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\code\c\C-homework\week17_01.c(44,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\code\c\C-homework\week17_02.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\code\c\C-homework\week17_03.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\code\c\C-homework\week17_03.c(5,20): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+C:\code\c\C-homework\week17_04.c(6,16): error C2057: 상수 식이 필요합니다.
+C:\code\c\C-homework\week17_04.c(6,16): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\code\c\C-homework\week17_04.c(6,19): error C2057: 상수 식이 필요합니다.
+C:\code\c\C-homework\week17_04.c(6,19): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+C:\code\c\C-homework\week17_04.c(6,9): error C2087: 'output': 첨자가 없습니다.
+C:\code\c\C-homework\week17_04.c(6,9): error C2133: 'output': 알 수 없는 크기입니다.
+C:\code\c\C-homework\week17_04.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week17_05.c
   코드를 생성하고 있습니다...
